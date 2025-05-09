@@ -8,9 +8,11 @@ This is a Game Selector Tool for people who are struggling to decide on a video 
 **What I have done**:
 I have completed the program and now have a fully working GUI. I have a Home screen that gives a brief description of the program, and an option to either continue or exit. Upon clicking "Start", users will see a series of three questions with three possible responses each. After all three have been answered, a recommended game will show, along with some info including price, platform, difficulty, and Metacritic rating. Users have the option to either restart or exit. 
 
+I also completed the testing documentation and User Manual.
+
 
 **What needs done**:
-I don't have any images in my program yet. I need to upload testing documentation. Finally I need to create a user manual.
+I don't have any images in my program, that is something I am missing. 
 
 
 
